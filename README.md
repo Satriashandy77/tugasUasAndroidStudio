@@ -1,6 +1,6 @@
 ## **Repositori ini dibuat untuk memenuhi penilaian tuggas UAS matakuliah pemrograman mobile**  
- Nama  : saripudin  
- Nim   : 312210077  
+ Nama  : SHANDY SATRIA MANDALA  
+ Nim   : 312210173  
  Kelas : TI.22.B1  
 
  hasil 
